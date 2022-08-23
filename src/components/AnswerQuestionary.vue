@@ -408,31 +408,31 @@
                                 column
                                 >
                                 <v-radio
-                                    label="沒有，需要從此帳戶進行提款"
+                                    label="未滿30萬元"
                                     color="error"
                                     value="q6s1"
                                 ></v-radio>
                                 <br>
                                 <v-radio
-                                    label="還有，需要從此帳戶進行大部分提款"
+                                    label="30萬元(含)到未滿50萬元"
                                     color="warning"
                                     value="q6s2"
                                 ></v-radio>
                                 <br>
                                 <v-radio
-                                    label="還有，需要從此帳戶進行部分提款"
+                                    label="50萬元(含)到未滿80萬元"
                                     color="info"
                                     value="q6s3"
                                 ></v-radio>
                                 <br>                        
                                 <v-radio
-                                    label="還有，不太可能需要從此帳戶進行提款"
+                                    label="80萬元(含)到未滿110萬元"
                                     color="success"
                                     value="q6s4"
                                 ></v-radio>
                                 <br>
                                 <v-radio
-                                    label="還有，不需要從此帳戶進行提款"
+                                    label="110萬元(含)以上"
                                     color="secondary"
                                     value="q6s5"
                                 ></v-radio>
